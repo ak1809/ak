@@ -1,3 +1,6 @@
+ddd
+s
+A
 new line new_bb branch
 Bi master
 dd adding new line`:wq
